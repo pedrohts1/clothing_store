@@ -1,0 +1,26 @@
+-Get products
+-Get Product
+-Create Product
+-Edit Product
+-Delete Product
+
+Product:
+-Name
+-Description
+-Techincal Info
+-Price
+	-Sem Desconto
+	-Valor no PIX
+	-Valor no Cartao
+-Reviews
+-Avaliable Sizes
+-Avaliable Colors
+-Imagens
+-Disponibilidade
+-URL
+-Departament
+-Category
+-SubCategory
+-Coleção
+
+

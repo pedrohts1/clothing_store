@@ -1,0 +1,19 @@
+Paginas:
+-Masculino
+	-Camisetas
+	-Camisas
+	-Casacos e Jaquetas
+-Feminino
+-Coleções
+-Promoções
+-About
+-Contato
+
+-Criar Conta
+-Acessar conta
+-Pedidos
+-Carrinho
+
+-Politicas
+-FAQ
+-
